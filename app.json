@@ -14,7 +14,7 @@
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "ANTI_DELETE": {
       "description": "make it true for use anti delete",
@@ -43,8 +43,8 @@
     },
     "OWNER_NUMBER": {
       "description": "set your status reply message",
-      "required": false,
-      "value": "26599********"
+      "required": true,
+      "value": "967714585737"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
